@@ -15,7 +15,7 @@
   color:#3A3838;
   background-size: contain;
   background-repeat:no-repeat;
-  background-position:50%;  
+  background-position:35%;  
   background-color: inherit; 
   border-color: #000;
   border-style: dotted;
@@ -24,7 +24,7 @@
 
 @media (min-width: 1200px) {
 .navbar-inverse {
-background-image:url('https://canders1.github.io/FYS/img/tree_border.jpg');
+background-image:url('../img/tree_border.png');
 }
 }
 
