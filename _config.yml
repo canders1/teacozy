@@ -1,6 +1,2 @@
-# Site settings
-title: teacozy
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+includes_dir: _includes
+title: COMSC343
